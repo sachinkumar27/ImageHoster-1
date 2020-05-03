@@ -13,6 +13,6 @@ GIT
 
 Installation:
 
-Please download the PostgreSQL To run the project
+Please download the PostgreSQL and unzip To run the project 
 
 
